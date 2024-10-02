@@ -1,4 +1,0 @@
-DATABASE_URL=postgresql://may-learning-db_owner:knpoa9JZPOB0@ep-soft-voice-a5ivgevb.us-east-2.aws.neon.tech/may-learning-db?sslmode=require
-JWT_SECRET=mysecretkey
-NODE_ENV=development
-PORT=5001
